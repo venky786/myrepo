@@ -3,3 +3,4 @@
 # Added company logo
 # Added new feature Facbook Login
 # Adding whatsapp feature
+# Added new game 8 ball pool.
